@@ -1,0 +1,2553 @@
+'EART33001 - 16-Oct', automated transcript
+29/10/2026
+---
+
+Oh, whatever it is.
+
+What would you say?
+
+It would be a good thing.
+
+Yeah.
+
+I think it would be
+
+a good thing.
+
+Okay, no. I didn't shout, okay.
+
+But you did.
+
+No, I didn't.
+
+Okay.
+
+Everyone else did.
+
+Everyone else did.
+
+We're going to be silent
+
+for a few minutes.
+
+I want
+
+to have the
+
+current ceremony.
+
+I was going to
+
+come up
+
+because I was like, I could just
+
+come up.
+
+I don't know, but I have
+
+the key.
+
+No, no, I don't believe you.
+
+Okay.
+
+I mean, that's a good thing.
+
+Okay.
+
+Right.
+
+Morning, everybody.
+
+Let's get going.
+
+Right, so
+
+today we're going to discuss
+
+another technique
+
+or couple of techniques.
+
+But before we do that,
+
+we are going
+
+to, or you are going
+
+to do a little quiz
+
+which
+
+I'm trying to reset.
+
+I don't think
+
+the seats go as well.
+
+Is it not working? Good.
+
+We're doing well today.
+
+Let's try that
+
+again. Yeah, you've probably
+
+checked in for another lecture.
+
+This one should work, hopefully.
+
+Is it working? Yeah.
+
+Okay, I'll leave it for
+
+another 30 seconds
+
+and then we'll get going. I'll just forget
+
+about the quiz. It was
+
+massively important.
+
+Everybody's checked in.
+
+So the second technique
+
+we're going to talk about
+
+this week
+
+is
+
+mostly related
+
+to analyzing the chemistry of fluids.
+
+And
+
+the acronyms for these techniques
+
+are ICP-OES
+
+and ICP-MS, which
+
+you might have heard about before.
+
+So let's start with ICP-OES.
+
+So what is ICP-OES?
+
+Well, ICP-OES
+
+stands for Inductively
+
+Coupled Plasma
+
+Optical Emission Spectroscopy.
+
+Sometimes you will see it
+
+abbreviated
+
+as ICP-AES
+
+because sometimes
+
+people say Atomic Emission Spectroscopy
+
+instead of optical. It's the same thing.
+
+So ICP-OES and ICP-AES
+
+is the same thing.
+
+So why
+
+do we use ICP-OES
+
+or what do we use ICP-OES
+
+for?
+
+As to the why, we're going to
+
+go into that in a minute, but
+
+these instruments
+
+have plasma. They
+
+use plasma to excite or
+
+synchronize elements and almost
+
+no chemical bonds
+
+in molecules can survive the heat
+
+of a plasma. Plasma is very,
+
+very hot and that
+
+breaks molecules apart.
+
+Also
+
+there is no chemical interferences.
+
+This is in theory.
+
+Again, we'll get to that in a minute.
+
+So because there is limited interferences
+
+the background is low
+
+so we get low detection limits
+
+so we're able to measure things
+
+that are not very concentrated.
+
+So we're able to measure
+
+things that are in very low abundances.
+
+And in theory you get simple
+
+linear calibrations over multiple
+
+orders of magnitude. So that
+
+means if you set up your instrument
+
+well
+
+and you've got a range of standards,
+
+so often we
+
+talk about standards. Standards
+
+refer to reference material
+
+for which we know
+
+the concentrations of different
+
+species and we use
+
+them to set up instruments.
+
+Key applications of ICP-OES
+
+it's one of the major
+
+instruments in environmental
+
+sciences
+
+and notably questions or
+
+problem that involves
+
+aqueous phases
+
+so liquids.
+
+It's very fast
+
+to acquire data so it's good
+
+to acquire large data set.
+
+And finally
+
+you can also analyse experimental
+
+fluids and things like that.
+
+Okay so
+
+this video is on canvas
+
+but I'll just play it because it's pretty good
+
+and it's
+
+pretty short.
+
+Let me see if I can get the sound
+
+to work though.
+
+It should.
+
+Okay.
+
+Let's see.
+
+Wow, we've got no mouse but we've got
+
+some sound.
+
+The light
+
+and separates it into spectral lines.
+
+The intensity of that light
+
+is usually related to the concentration
+
+of a given element in the sample.
+
+So, this is key.
+
+By precisely measuring that light
+
+intensity you can determine
+
+which elements are present in the sample
+
+and in what proportions.
+
+Now let's take a
+
+cutting edge ICP-OES
+
+analyzer such as SpectroArcos.
+
+Step by step
+
+here's how it works.
+
+The liquid sample is drawn into the peristaltic
+
+pump. In the nebulizer
+
+it's converted into a fine
+
+aerosol spray.
+
+In the spray chamber, larger droplets
+
+drain away but finer
+
+droplets are directed into the hot plasma.
+
+In the plasma
+
+the sample aerosol vaporizes
+
+and its atoms and ions are
+
+excited so that their characteristic
+
+wavelengths are emitted.
+
+The light is transferred into the high resolution
+
+no purge sealed optical
+
+system which separates the
+
+light into the specific wavelengths
+
+for the elements to be measured.
+
+As these wavelengths strike the detector
+
+array, light intensities
+
+for each different wavelength
+
+are quantified and sophisticated
+
+software converts them into concentration
+
+units. So, the
+
+sample secrets which elements
+
+it contains in exactly
+
+what amounts are revealed.
+
+Okay.
+
+So, as that video
+
+just introduced to you, one of the
+
+key
+
+what ICP-OES
+
+uses, light emissions
+
+to determine
+
+concentrations of different elements.
+
+So, we're going to go into that
+
+in a minute. So, we've got ICP-OES
+
+here in the department.
+
+It's within
+
+the unit called
+
+MAGU, Manchester Analytical
+
+Geochemistry Unit.
+
+Some of you might
+
+do projects that
+
+uses some of these data.
+
+So, again, I've just
+
+put here a screen grab of the website.
+
+So, if you
+
+look up ICP-AES, so here
+
+it calls it ACP-AES for MAGU,
+
+you've got some more information
+
+about the equipment, the
+
+types of elements you can measure,
+
+the sort of
+
+detection limits, so all these sorts of
+
+information that are useful for people
+
+to prepare
+
+samples and
+
+decide if the technique is appropriate
+
+for what they're interested in.
+
+This is what the instrument looks
+
+like. So, in that
+
+course, I like to, every time we talk
+
+about different instruments, I like to give you an idea
+
+about the cost associated with it.
+
+So, an instrument
+
+like that would cost you
+
+probably about 150-200
+
+thousand pounds. So, it's
+
+fairly pricey, but compared
+
+to some other instruments we'll be talking about
+
+in the coming weeks, it's actually
+
+quite cheap.
+
+So, the key components
+
+of an ICP-AES are
+
+a source with a plasma torch,
+
+which is basically
+
+in that red box here, very
+
+lighted on the instrument.
+
+So, you need your
+
+plasma to excite your
+
+atoms. Then you need
+
+the spectrometer to separate the emission
+
+lines of the different elements.
+
+And then,
+
+like all modern instruments,
+
+not even so modern anymore,
+
+it's connected to a computer
+
+that records the data and
+
+allow to convert here things
+
+like intensity into concentrations.
+
+If we look at the schematic
+
+of an ICP-AES,
+
+so you saw in the video, you've got
+
+your, I could have
+
+showed that here, and here at the back, for
+
+example, you've got an autosampler.
+
+So, it's
+
+racks where you can put dozens
+
+and dozens of vials
+
+with your fluid solution and it automatically
+
+go and get the fluids
+
+out of the vials.
+
+So, you need to pump your
+
+solution using peristatic
+
+pumps. Your solution gets into
+
+a nebulizer.
+
+In the nebulizer, most of the samples
+
+are actually drained away. You see
+
+here at 97%.
+
+And what's
+
+admitted into the torch is really
+
+the fine aerosol particles.
+
+So, in your nebulizer, you create a
+
+fine aerosol, which
+
+then gets injected into the torch
+
+of the ICP-AES.
+
+And then, in the
+
+spectrometer part, you've got
+
+your diffraction grating, which
+
+allows you to separate
+
+light emitted from the torch into
+
+different wavelengths. And then,
+
+you've got a detection
+
+system that allows you to count
+
+the intensities of photons.
+
+And this is connected to a computer.
+
+So, let's talk about the torch and
+
+the plasma.
+
+So, this is a schematic here
+
+of the ICP-AES torch.
+
+So, plasma is a
+
+state of matter and it's very, very hot.
+
+So, the core of the plasma
+
+is about 10,000 Kelvin.
+
+The tip of the plasma is about
+
+5,000 to 6,000 Kelvin.
+
+As a comparison, the surface
+
+of the sun is about 5,500 Kelvin.
+
+So, the tip of your
+
+plasma is at the same temperature
+
+than the surface of the sun.
+
+And so, as I said in the introduction,
+
+plasma
+
+related techniques
+
+are very good because they
+
+destruct most chemical bonds.
+
+So, we can analyze elements individually
+
+rather than analyzing molecules.
+
+So, in these instruments,
+
+to produce your plasma, you start
+
+by
+
+flowing some argon gas
+
+into the plasma torch.
+
+So, you've got your flow of argon.
+
+There is a
+
+radio frequency generator
+
+which is represented here by
+
+these yellow coils.
+
+So, it's basically copper coils that go
+
+around your torch.
+
+And that applies an electric
+
+and a magnetic field
+
+around the torch.
+
+Then you're
+
+under this field,
+
+you can start
+
+striping some electrons from
+
+your argon atoms into
+
+the plasma.
+
+So, it requires quite a
+
+large field
+
+because argon is a noble gases.
+
+It's very stable.
+
+Its external orbital
+
+is full of electrons, so it doesn't really want
+
+to lose an electron or it doesn't
+
+want to gain an electron.
+
+So, you need to apply quite a lot of power.
+
+But then some
+
+atoms will start losing an electron
+
+and then because they become charged
+
+they get faster and faster.
+
+They collide with other argon atoms
+
+which then lose an electron, et cetera, et cetera.
+
+You've got a cascade of collisions.
+
+And
+
+eventually
+
+with a little spark
+
+you light up your plasma.
+
+And then your aerosol,
+
+so when the plasma is lit up and hot
+
+you introduce your aerosol
+
+into your plasma.
+
+First, these droplets are
+
+desolvated in
+
+solid molecules, so the
+
+aqueous phase is essentially
+
+evaporated.
+
+Then your
+
+solid molecules are vaporized
+
+into gas and then
+
+these gas molecules, the bonds
+
+are broken up and then
+
+atomized into constitutive
+
+atoms.
+
+And finally, because
+
+it's hot, because atoms are moving
+
+very, very fast, they collide with one
+
+another,
+
+you can either excite
+
+and or ionize your atom.
+
+And the
+
+for the ICP-OES
+
+it's the excitation of these atoms
+
+that is used to determine
+
+concentrations. So, why
+
+is that? Well, if you excite an atom,
+
+so by exciting an atom
+
+what I mean is you get electrons
+
+jumping to higher
+
+orbital levels.
+
+This is not a stable configuration
+
+so when you
+
+de-excite your atom,
+
+so when electrons come back down
+
+this is associated
+
+with the emission of a photon.
+
+So, a photon
+
+is characterized by a
+
+wavelength
+
+and here, for example, if you look
+
+at the emission spectrum of hydrogen
+
+you can see that you've got
+
+four possible bands
+
+where emission
+
+is fixed.
+
+And so, these
+
+the energy of the
+
+photon associated with this
+
+drop from one orbital to the next
+
+is characteristic of
+
+a given element. So,
+
+similarly to characteristic
+
+X-rays, the
+
+wavelength at which they're emitted
+
+is characteristic for a given element.
+
+Here, the wavelength at which
+
+these photons are emitted is also
+
+characteristic of a given element.
+
+So, no two elements will have
+
+the same excitation
+
+pattern.
+
+And the other point here
+
+is, hopefully you remember
+
+that energy and wavelengths
+
+are inversely
+
+related, so the higher the energy
+
+the lower the wavelength.
+
+So here, your
+
+highest energy drop
+
+is for that blue line
+
+because it drops three orbitals.
+
+This corresponds to your lower
+
+wavelength of 434
+
+nanometers, so in the
+
+blue light region.
+
+So, as I said, no two elements will
+
+emit light with the same wavelengths.
+
+And so, here you've got a periodic
+
+table of the elements
+
+with the emission spectra for
+
+every single element.
+
+So, we were just looking at hydrogen
+
+which is here in the top left corner.
+
+And you can see
+
+that depending on the elements
+
+some are very, well, fairly
+
+simple emission spectra with
+
+four, five, six, seven lines.
+
+Some are very complex emission
+
+spectra and this is all to do with
+
+the orbital or the atomic
+
+configurations of the elements.
+
+This is basically
+
+what fireworks are based on.
+
+So, the colors you
+
+see when you go and see a fireworks
+
+which is actually topical
+
+because in a few weeks time most of you
+
+will probably see some fireworks.
+
+This is produced by some
+
+characteristic elements. So, for example
+
+red fireworks tend to use strontium
+
+salts, orange
+
+fireworks, calcium, yellow
+
+related to sodium, green to
+
+barium, blue to copper, et cetera,
+
+et cetera.
+
+So, there's
+
+just a slide here to remind you of
+
+some of the equations
+
+linking energy, frequency,
+
+wavelengths, et cetera, et cetera, that
+
+we saw last week.
+
+In the practical
+
+in half an hour,
+
+45 minutes, there'll be a few questions
+
+around manipulating
+
+these equations
+
+because they're fundamental
+
+to most of the techniques that we're
+
+going to see in this course.
+
+So, it was fundamental to XRD,
+
+it's also fundamental here to ICP.
+
+Oh, yes.
+
+So, we've got our
+
+aerosol into a plasma,
+
+we've got
+
+our molecules separated
+
+out in constitutive elements or
+
+atoms. These atoms, some
+
+of them are excited and so
+
+they will emit light when
+
+they get back to their stable
+
+configuration. And then your
+
+light, if I
+
+go back to the schematic,
+
+the visible light at the
+
+end of your torch basically
+
+is transferred into the spectrometer.
+
+And in the spectrometer,
+
+you want to separate this
+
+light
+
+into the constitutive
+
+wavelengths of the elements.
+
+So, to focus the light
+
+into the spectrometer,
+
+first there is a range of slits
+
+and mirrors to
+
+focus the beam
+
+into a well-defined beam.
+
+And then it hits a diffraction
+
+grating.
+
+So, we discussed diffraction grating last
+
+week, here is the same principle.
+
+Your grating disperses
+
+the light according to the wavelengths.
+
+So, here you've got your incident light
+
+coming on this
+
+black
+
+arrow and it hits
+
+your grating and the wavelengths,
+
+the shorter wavelengths,
+
+lambda 1, will be diffracted
+
+with that angle and the slightly longer
+
+wavelength, lambda 2, with that
+
+angle, etc.
+
+So, you see
+
+that if you're able to
+
+put detectors at the right
+
+angle, it's all
+
+at the geometry. If you've got your incident
+
+light hitting your grating
+
+and you know the wavelengths of
+
+the elements you're trying to measure,
+
+you can come and put your detectors
+
+at the right wavelengths.
+
+There's two types of
+
+detection system or
+
+spectrometer system.
+
+There's the first type that we call
+
+monochromator, as the
+
+name implies with mono. It
+
+measures one element at a time.
+
+So, you basically rotate your
+
+grating to change the angle
+
+with the incident
+
+beam and then
+
+measure multiple
+
+elements sequentially.
+
+This is not really used anymore.
+
+Most
+
+instruments these days use polychromators.
+
+So, you've got
+
+here an example on the right hand side
+
+where your
+
+plasma torch emits the
+
+light, which is then directed
+
+into what's called the Roland circle
+
+and it hits
+
+the grating here in gray
+
+and you've got multiple detectors
+
+that allow you to measure
+
+multiple elements at the same time.
+
+So, here on that example you've got
+
+five detectors so you can measure
+
+five elements at the same time.
+
+And here again
+
+you can
+
+move your detector around
+
+to measure, say you want to measure ten
+
+elements, you do the first five,
+
+you move your detector around, you measure
+
+the second lot of five, etc.
+
+So, a few words
+
+on the data and how
+
+you play with
+
+real data in a minute in
+
+the practical, but what does the
+
+data look like in
+
+ICP-OES?
+
+So, what the
+
+display shows you is intensity
+
+versus wavelengths.
+
+So, you probably can't see it
+
+because the quality is quite bad, but
+
+on that y-axis is
+
+the intensity and
+
+here on the x-axis is the
+
+wavelengths. And you've got an example
+
+here for lead.
+
+So, people were interested in
+
+measuring the abundance of lead in
+
+a river sample. Lead is bad
+
+for health
+
+so it's one of the prime pollutants
+
+that people track. So,
+
+you see here an
+
+ideal case scenario on the left-hand side
+
+where you've got a nice, flattish
+
+background and you've got your lead emission
+
+peak in green.
+
+So, this is the ideal
+
+case. You can measure
+
+the abundance of lead using just
+
+that peak. But
+
+the composition of your fluid
+
+is very important because
+
+typically fluid samples
+
+are not pure. They don't
+
+only contain lead. They will always
+
+contain other species and so
+
+you can have what we call
+
+spectral interferences.
+
+So, here again
+
+in the lead example, you've got
+
+your lead peak, but you can see that your
+
+background here, as opposed
+
+to the left-hand side, your background is not flat.
+
+It rises from
+
+a fairly low background on the left-hand
+
+side of the peak to fairly
+
+higher, much higher background
+
+on the right-hand side of the peak.
+
+And here in that example,
+
+this increase in
+
+the background is in fact
+
+because you're on the shoulder of
+
+your aluminium peak.
+
+So, in the
+
+caption, it tells you that
+
+the lead emission light is at
+
+220.353
+
+and you've got a
+
+large aluminium emission light
+
+at 220.467.
+
+So,
+
+here on the right-hand side. And because there's a lot
+
+more aluminium than lead, your
+
+aluminium peak is a lot broader
+
+than your lead peak and so
+
+here you've got the left shoulder
+
+of your aluminium peak that interfere
+
+with your lead.
+
+You can still
+
+estimate a lead
+
+abundance by
+
+modelling your background and basically
+
+bringing back to
+
+what it would be with no aluminium,
+
+but it's a bit more complicated.
+
+Here it's another example of
+
+interferences with another element
+
+called molybdenum. Well, that's
+
+the main
+
+things in terms of data
+
+interpretation for ICP-OES.
+
+It's first
+
+trying to match the
+
+chemistry of the fluids between your
+
+standards and your samples, so similar
+
+composition, and then being
+
+aware that typically you will
+
+have other species that
+
+you're not interested in, but that interfere
+
+with those that you are interested in
+
+and it's modelling these
+
+effects to calculate concentrations.
+
+And finally, in the introduction,
+
+I said ICP-OES was great
+
+because it had the great dynamic
+
+range, so we could measure things
+
+from very low abundances to much
+
+higher abundances. So typically
+
+for ICP-OES we're talking about
+
+four to six orders of
+
+magnitude, so that
+
+means that if you've got
+
+0.1
+
+part per million lead,
+
+you can
+
+measure this, but you could also
+
+measure, so 0.1,
+
+you can measure
+
+10,000, 100,000
+
+parts per million lead, so it's
+
+quite versatile. It can go from
+
+very low abundances to much, much higher
+
+abundances, so you can also measure
+
+major element abundances in
+
+rock samples, for example.
+
+Again, another periodic table,
+
+so here it's a periodic table with
+
+what elements you can measure using
+
+ICP-OES, and
+
+the typical detection limits,
+
+colour-coded
+
+by green being the lowest
+
+and blue being the highest.
+
+So you can't measure,
+
+there's some elements you cannot
+
+measure using ICP techniques.
+
+These elements typically are the
+
+noble gases, the halogens,
+
+carbon, nitrogen,
+
+oxygen, hydrogen,
+
+so what we call
+
+atmophile elements.
+
+These you can't measure using ICP-OES.
+
+We need other
+
+techniques to be able to measure these
+
+elements.
+
+And
+
+so some of the elements
+
+that work very well,
+
+here in greenish colours,
+
+are most of the metals,
+
+the alkali, the alkali earth,
+
+and you see typical, if you have
+
+to remember one sort of
+
+typical detection limit
+
+value is part per billion.
+
+So it's
+
+10 to the minus 9
+
+microgram
+
+per litre.
+
+Just a summary of ICP-OES,
+
+some of the pros and cons of using
+
+ICP-OES. So it's
+
+really the tool of choice for analysing
+
+elements
+
+in fluids.
+
+So it can measure very abundant
+
+elements, major elements,
+
+because of that large
+
+dynamic range, but it can also measure
+
+a very low abundance
+
+element. It's very quick
+
+from taking
+
+your sample
+
+from the vial
+
+to putting it into
+
+the mass spectrometer to getting a
+
+measurement, we're probably talking one
+
+or two minutes. So you can
+
+analyse a lot of samples very
+
+quickly. And as a
+
+result, it's pretty
+
+cost-effective.
+
+For one sample, if you were to
+
+ask Abby, who runs the
+
+MaguLab, and if you had 10 samples
+
+to analyse, it probably would cost you
+
+30, 40
+
+pounds. So it's pretty cheap.
+
+So I mentioned fluids a lot, but
+
+you can also analyse
+
+rock sample. There's
+
+two ways you could analyse rock sample.
+
+You could dissolve
+
+your sample in acids into its
+
+constitutive elements and run these
+
+solutions. Or you could couple
+
+your ICP-OES to a
+
+laser, with which you
+
+ablate solid sample and transfer
+
+it into the mass spec. And we'll
+
+discuss laser-related
+
+techniques in a few weeks' time.
+
+Some of the
+
+cons, you can't analyse some important
+
+elements like halogens, the
+
+noble gases, carbon, hydrogen,
+
+nitrogen, etc. You must
+
+account for matrix effects, so you
+
+must have solutions, similar
+
+solutions, for your standards and
+
+your samples.
+
+And as we just discussed, spectral
+
+interferences is the main
+
+– it's not a problem,
+
+it's always there. We would rather
+
+not have some.
+
+But you can work around
+
+it with appropriate calibration and
+
+standards. Any question
+
+on ICP-OES before
+
+I move on to ICP-MS?
+
+So ICP-MS
+
+stands for Inductively
+
+Coupled Plasma Mass Spectrometry.
+
+We do them together here
+
+today because
+
+the basics are similar,
+
+and it's what we're measuring
+
+that's different.
+
+So again, it's the same slide,
+
+well, this part is the same slide. Why
+
+do we use ICP-MS?
+
+Again, almost no bonds
+
+survive in the plasma, so
+
+we've got limited
+
+chemical interferences.
+
+We've got low backgrounds, so low
+
+detection limits, and we've got
+
+simple calibration of several
+
+orders of magnitude.
+
+So the main
+
+difference between ICP-OES and
+
+ICP-MS in terms of
+
+why would you choose one over the other
+
+is ICP-MS has much lower
+
+detection limits. So we use
+
+ICP-MS to analyse trace
+
+and ultra-trace elements.
+
+So things that,
+
+for example, are very toxic
+
+and we don't want into
+
+your food or in the water you drink
+
+or in the environment, even at
+
+very, very low concentration.
+
+Things like arsenic, cadmium,
+
+et cetera, et cetera.
+
+In geoscience,
+
+some of the
+
+lowest concentration elements are
+
+platinum group elements,
+
+like platinum. It's very
+
+valuable, so lots of people want to
+
+find platinum, but
+
+it's also typically at very
+
+low concentration, so you need very precise
+
+techniques to be able to measure these
+
+elements.
+
+So again,
+
+because they tend
+
+to be pretty good, we are going
+
+to start with
+
+a short
+
+video on ICP-MS made
+
+by one of the manufacturers.
+
+The open architecture
+
+sample introduction area facilitates
+
+routine maintenance and allows
+
+fast and simple connection of accessories
+
+such as discrete sampling,
+
+HPLC, GC
+
+and laser ablation.
+
+Although liquid sample analysis
+
+is the most common configuration,
+
+the peristaltic pump
+
+is mounted close to the nebulizer,
+
+minimizing sample uptake and
+
+washout times and improving
+
+sample throughput.
+
+The sample is introduced into one of Agilent
+
+Technology's specially designed
+
+low flow nebulizers, where
+
+it mixes with argon gas to form
+
+a fine aerosol.
+
+The aerosol passes through the
+
+double pass Peltier cooled spray chamber
+
+where the larger droplets are removed
+
+to increase plasma robustness.
+
+The small aerosol droplets
+
+leave the spray chamber and enter
+
+the transfer tube leading to the plasma.
+
+The 7700
+
+delivers the best matrix tolerance,
+
+lowest interferences
+
+and highest ionization of any
+
+commercial ICP-MS.
+
+Now, Agilent's
+
+innovative HMI or
+
+High Matrix Introduction Technology
+
+further extends the matrix tolerance
+
+of the 7700X
+
+and allows percent level matrices
+
+such as undiluted seawater
+
+to be measured routinely.
+
+HMI's aerosol dilution
+
+also reduces oxide levels by
+
+a factor of 10 to around 0.1%,
+
+which virtually
+
+eliminates matrix suppression
+
+and allows highly variable samples
+
+to be measured accurately against
+
+simple aqueous standards.
+
+From the spray chamber
+
+transfer tube, the small
+
+aerosol droplets are carried to the plasma
+
+torch, which features a 2.5
+
+millimeter wide injector to ensure
+
+the droplets are dried, decomposed,
+
+atomized and ionized
+
+effectively.
+
+The plasma of the 7700
+
+is powered by a unique digital
+
+drive solid state 27 MHz
+
+RF generator,
+
+which provides the highest power transfer
+
+efficiency of any ICP-MS.
+
+This delivers the most effective
+
+matrix decomposition,
+
+lowest interferences and highest
+
+sensitivity, especially
+
+important for poorly ionized elements.
+
+The generator
+
+uses a computer controlled frequency
+
+matching network to instantly
+
+adjust to position optimization
+
+relation from data shield torch
+
+system, which ensures that
+
+this is essential for interference removal
+
+extracted into the high vacuum region
+
+for the two interface cones.
+
+The unique design of the
+
+7700 interface combines
+
+exceptional matrix tolerance and
+
+high sensitivity across the mass range.
+
+Now you see the elements going from
+
+the torch into the mass spectrometer.
+
+So what's called cones?
+
+So now your atoms are in the mass spectrometer
+
+part of the instrument.
+
+What you see
+
+is that here only a set
+
+of selected atoms
+
+can go into the
+
+detection system.
+
+So some molecules
+
+make it into the detection system
+
+and they are eliminated by
+
+colliding with gas molecules
+
+injected into the mass spectrometer.
+
+So the quadrupole is the last bit of the detection system
+
+or the filtering system
+
+which basically
+
+separates each element based on its mass.
+
+Then they go into the detector.
+
+Every year I forget how much fluff
+
+there is in their video.
+
+So ICP-MS.
+
+So I'll come back into this main
+
+component of ICP-MS
+
+in a minute.
+
+So again, we've got ICP-MS
+
+instruments here.
+
+We've got two
+
+many of them actually.
+
+So on the same website,
+
+on the MAGU website, you can find
+
+information about the instruments
+
+we have, the types of
+
+analysis you can do, how to prepare
+
+your samples, et cetera, et cetera.
+
+And here again, some of you might be using
+
+ICP-MS data in
+
+your project this year or next year.
+
+So what are the key components
+
+of ICP-MS instruments?
+
+So this one is the instruments
+
+that we've got in the planetary
+
+group.
+
+So the main parts are a source
+
+with a plasma torch to
+
+ionize the elements.
+
+An interface with cones and
+
+electrostatic lenses.
+
+So the interface is the interface between
+
+the plasma, which is at
+
+ambient pressure, and the mass
+
+spectrometer, which is at
+
+high vacuum.
+
+So you've got the quadruple mass
+
+filter, which allows you to filter
+
+the different masses and measure the
+
+elements you're interested in.
+
+And then you've got a detection system,
+
+here in the case of this ICP-MS,
+
+it's called an electron multiplier,
+
+which measure the
+
+species one after the other.
+
+And you've got a computer to
+
+record and process the data.
+
+So if you
+
+look at the schematic, the
+
+right-hand side is actually very similar
+
+to what we saw earlier.
+
+So if you analyze liquid sample,
+
+you need to pump the sample out.
+
+It goes into the nebulizer, where you
+
+produce your aerosol.
+
+Most of the droplets are evacuated
+
+into the drain.
+
+But some of it will be admitted
+
+to the torch.
+
+And then from the torch you go into the
+
+interface, quadruple,
+
+electron multiplier,
+
+and computer.
+
+So this is the same slide about
+
+the plasma and the torch.
+
+So I won't reread again.
+
+It's exactly the same principle.
+
+The only difference
+
+is instead of
+
+using the
+
+excited to stable state
+
+of the atoms here, we use the fact
+
+that some of them get ionized.
+
+So some atoms
+
+will lose an electron, so they
+
+become positively charged.
+
+This is what we call ionized.
+
+And because they're positively charged,
+
+you can, by applying magnetic fields,
+
+you can move
+
+them into your mass spectrometer and get
+
+them to where you want them to go.
+
+So one of the caution
+
+that I like to highlight is that
+
+your torch, so this is the
+
+torch where your plasma is made.
+
+So it's glassed.
+
+So it's essentially quartz.
+
+So analyzing silicon
+
+by ICP-MS
+
+typically doesn't work very well,
+
+because your torch always
+
+sheds silicon particle
+
+into the plasma and into the mass spec.
+
+So ICP-MS
+
+relates to ionization
+
+energy or ionization
+
+potential. So here that graph shows
+
+you the ionization energy versus
+
+the atomic number for
+
+all the elements. And that
+
+ionization energy is the energy
+
+you need to remove an electron
+
+from a neutral atom.
+
+So the lowest
+
+ionization
+
+energies are for the alkali metal,
+
+so lithium, sodium, potassium,
+
+rubidium, cesium.
+
+The reason being they only have one
+
+electron in their external shell.
+
+So it's fairly easy. You don't need a lot of
+
+energy to remove that electron.
+
+And it's highest for the noble
+
+gases. So we've talked about the noble
+
+gases multiple times. The noble gases
+
+are very, very
+
+stable and it takes a lot of energy
+
+to remove an electron from a noble gas.
+
+So in theory
+
+with ICP-MS you can analyze
+
+any element of the periodic
+
+table with ionization potential
+
+below that of argon.
+
+So argon is the gas
+
+that you use in the plasma.
+
+So any element that's below argon
+
+on that diagram, you can analyze
+
+any element above
+
+you can't. So essentially
+
+the elements you cannot analyze
+
+are fluorine, neon,
+
+and helium. All the rest
+
+you can, or at least you can
+
+try. It's not
+
+strictly speaking, it's not true that
+
+you can analyze all elements.
+
+So
+
+there are two
+
+main types of ICP-MS
+
+instruments, or there's two main types
+
+of filtering the different
+
+elements. One is based on
+
+quadruple
+
+mass filtering, which is
+
+what we're going to discuss here.
+
+The other one is based on
+
+magnetic sector mass
+
+filtering. And we'll discuss
+
+that in a few weeks time when we discuss
+
+solid sample analysis.
+
+So quadruple, so this is
+
+what we have
+
+in that ICP-MS, for example.
+
+This is what you had in the video.
+
+Quadruples, as the name implies,
+
+are just four metallic rods
+
+which you have depicted here
+
+schematically.
+
+Here on that schematic, your beam of
+
+ion comes from the plasma
+
+and the interface from the left-hand side.
+
+It goes through that narrow
+
+entrance slit,
+
+and it enters your quadruple.
+
+And you've got
+
+voltages
+
+applied to these
+
+four rods. So you've got one voltage
+
+applied horizontally,
+
+one voltage applied vertically,
+
+and basically
+
+for a given set of voltages
+
+only one element
+
+can go through.
+
+So this is what's depicted here.
+
+For the given set of voltage
+
+at T1, only the
+
+red ions
+
+will go through. The blue ions
+
+will be deflected and end up colliding
+
+with the rods or being
+
+ejected from the system.
+
+And then you switch the voltages
+
+and you can let
+
+through element number two
+
+and element number one doesn't get through.
+
+So the way quadruples work
+
+is you switch these voltages
+
+very, very quickly. We're talking
+
+a few tens of milliseconds
+
+and you detect all your
+
+elements sequentially that way.
+
+So the
+
+ICP-MS
+
+has got an even larger
+
+range,
+
+dynamic range, typically up to nine
+
+or ten orders of magnitudes
+
+if you have a constant matrix.
+
+So you can measure
+
+a very, very wide range of
+
+concentration from ultra-low
+
+trace concentration to
+
+major element type concentrations.
+
+If we take that periodic
+
+table that we saw earlier but apply
+
+it to ICP-MS,
+
+so again, noble gases
+
+don't work. Halogen,
+
+they do work, not fluorine
+
+but the other ones work. Carbon,
+
+nitrogen, oxygen, hydrogen
+
+we can't analyze by ICP-MS.
+
+There's just too much
+
+in the instrument.
+
+So the background is too high.
+
+And the typical detection limit
+
+for ICP-MS is part per trillion,
+
+so PPT range.
+
+Again, with color
+
+coding, it differs
+
+depending on the element.
+
+I like that quote,
+
+one part per trillion, so if you were
+
+to try and visualize
+
+one part per trillion is
+
+if you had a single white resin
+
+in a big house
+
+full of regular resin
+
+and you would like to find that grain
+
+of resin. So it's
+
+very, very good for measuring very, very
+
+low abundances.
+
+So quick summary,
+
+the pros, so it's the tool of choice
+
+for analyzing very low abundances
+
+and very low abundance
+
+elements in fluids.
+
+You can measure pretty much
+
+every element in the periodic table
+
+with a detection limit
+
+below 0.1 part per billion.
+
+So we just mentioned
+
+part per trillion, part per billion.
+
+One part per billion
+
+is equal
+
+to 1,000 parts per trillion.
+
+This is
+
+three orders of magnitude between
+
+PPT and PPB.
+
+Similarly to ICP-OS,
+
+it's quick. So because
+
+it's quick, it's relatively cheap
+
+and you don't require
+
+a lot of sample preparation.
+
+Here again by quick,
+
+couple of minutes per sample,
+
+maybe two, three minutes. So it goes quite
+
+quickly. And I said
+
+if you had to analyze ten samples
+
+by ICP-OES, it would cost you
+
+I don't know, 30, 40 quid.
+
+If you analyze the same ten sample
+
+by ICP-MS, maybe it
+
+would cost you 50, 60 pounds.
+
+Just because the instrument's a bit more
+
+expensive. Yeah, I said
+
+ICP-OES was about 150,
+
+200,000. And ICP-MS,
+
+like the one we have in the lab,
+
+is 250,000.
+
+So it's the similar, similar range of
+
+price.
+
+And similarly to ICP-OES,
+
+you can analyze
+
+rock samples if you dissolve
+
+them in acids
+
+or if you couple your ICP-MS
+
+to a laser.
+
+The cons are similar. You can't
+
+analyze some important species
+
+like carbon, hydrogen,
+
+oxygen, nitrogen, and double
+
+gases. You must account for matrix
+
+effect. And you also get mass
+
+interferences.
+
+And we'll go into that in a bit
+
+more detail in the practical.
+
+So you need standards
+
+and you need good calibrations.
+
+So if we just finish
+
+off by comparing the two, ICP-OES
+
+versus ICP-MS.
+
+So ICP-OES, typical
+
+detection limit in the part per billion
+
+range, part per trillion
+
+for ICP-MS. So about
+
+100 to 1000
+
+time, better detection limit.
+
+In ICP-OES,
+
+you can have sample with
+
+high total dissolve solids.
+
+In ICP-MS, you cannot.
+
+You need to really dilute.
+
+If you've got water
+
+samples full of solids, you need
+
+to dilute it quite a lot
+
+so that you can work with ICP-MS.
+
+ICP-OES,
+
+developing the method,
+
+tuning your instrument,
+
+et cetera, et cetera, it's fairly easy.
+
+ICP-MS, it's a bit more complex,
+
+but to be honest, it's still fairly
+
+straightforward.
+
+And it's fairly
+
+cheap. So a couple of pounds per
+
+sample in ease
+
+and about five to six pounds.
+
+So these numbers are from
+
+a few years ago. It's probably a bit more than that
+
+now, but typically it's pretty
+
+cheap. So that's why, because
+
+it's very fast and
+
+fairly cheap.
+
+Some labs analyzed
+
+thousands of water samples a day.
+
+They basically have
+
+dozens of instruments in line
+
+and auto samplers, and they just
+
+do that all day long.
+
+So
+
+that's it for this lecture.
+
+Is there any question?
+
+So in 10, 15 minutes, we'll
+
+have a practical
+
+on this. I can put the
+
+seats codes back
+
+if you've
+
+turned up after
+
+it disappeared.
+
+But other than that, we'll see you in
+
+10 minutes in Williamson
+
+2.45
+
+to work on this.
+
+See you in a minute.
